@@ -12,7 +12,8 @@ public class Task1 {
 
 		public static void main(String args[]){
 			
-			
+			// есть проблемы с пониманием как можно создать параметризированный объект.
+			// например создать внутри класса массив типа “.
 			
 			MySet<Integer> mySet = new MySet<Integer>(Integer.class);
 			
